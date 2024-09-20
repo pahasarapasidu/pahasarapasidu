@@ -16,5 +16,9 @@ As an Electronic and Telecommunication Engineering undergraduate at the Universi
 
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pahasarapasidu&show_icons=true&locale=en&layout=compact" alt="pahasarapasidu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pahasarapasidu&show_icons=true&locale=en" alt="pahasarapasidu" /></p>
+
 [![](https://visitcount.itsvg.in/api?id=pahasarapasidu&icon=2&color=0)](https://visitcount.itsvg.in)
 
