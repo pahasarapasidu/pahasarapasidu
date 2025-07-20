@@ -13,6 +13,8 @@
 🔧 Building projects that bridge **theory** and **practice**  
 🌱 Always learning new technologies and exploring innovative solutions
 
+![View Count](https://komarev.com/ghpvc/?username=pahasarapasidu&color=blue)
+
 ---
 
 
