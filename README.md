@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,java,arduino,git,github,linux,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,java,arduino,raspberrypi,git,github,linux,vscode&theme=dark)
 
 </div>
 
