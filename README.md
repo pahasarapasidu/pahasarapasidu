@@ -35,6 +35,10 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-154360?style=flat&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-00427C?style=flat&logoColor=white)
+
+
 
 ### Design Tools
 ![Altium](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat)
