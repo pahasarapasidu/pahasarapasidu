@@ -133,5 +133,8 @@ I'm always excited to collaborate on innovative hardware projects and discuss th
 
 <div align="center">
   <i>💡 "Mathematics is the language of electronics, and code is how we speak it fluently."</i>
-</div>
 
+
+![snake gif](https://github.com/pahasarapasidu/pahasarapasidu/blob/output/github-contribution-grid-snake.svg)
+
+</div>
