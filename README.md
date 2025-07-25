@@ -37,6 +37,7 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-154360?style=flat&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC-00427C?style=flat&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 
 
 
