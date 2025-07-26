@@ -103,7 +103,7 @@
 
 - 🥈 **2nd Place** - IEEE Challenge Sphere Arduino Challenge (2024)
 - 🎓 **Dean's List** - 3 consecutive semesters
-- 👥 **Committee Member** - Electronics Club SLRC Branch
+- 👥 **Program and Delivery Vice Chairman** - Electronics Club SLRC Branch
 - 🤖 **Team JASPERN** - Battle Robot & Micromouse competitions
 
 ## 🌟 What I'm Working On
