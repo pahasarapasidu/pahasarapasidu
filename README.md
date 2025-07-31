@@ -46,6 +46,13 @@
 ![LTSpice](https://img.shields.io/badge/-LTSpice-8B0000?style=flat)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat)
 
+### Operating Systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 </div>
 
 ## 🔥 Featured Projects
