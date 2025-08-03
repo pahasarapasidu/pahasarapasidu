@@ -130,7 +130,7 @@ I'm always excited to collaborate on innovative hardware projects and discuss th
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasidu-pahasara)
-[![TEL](https://img.shields.io/badge/Telephone-100000?style=for-the-badge&logo=phone&logoColor=white)](tel:+94771476766)
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pahasarapasidu@gmail.com)
 
 
